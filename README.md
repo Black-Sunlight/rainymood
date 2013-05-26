@@ -6,7 +6,7 @@ Files for volume script
 ----------
 Скрипт находится тут [userscripts.org](http://userscripts.org/scripts/show/168590) 
 
-### Описание ###
+## Описание ##
 Скрипт заменяет swf player на сайте [http://www.rainymood.com](http://www.rainymood.com) 
 
 - Регулятор громкости
